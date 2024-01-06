@@ -1,2 +1,3 @@
 # ML_Projects
-Self Projects
+ Lane Detection
+ Sudoku Solver
